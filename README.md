@@ -14,6 +14,8 @@ Triality on node 5|
 :-------------------:|
 <img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_1A4.png" width="250" height="250"><img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_1B4.png" width="250" height="250">|
 
+[Model 4](https://github.com/mcarc011/Results/tree/master/figs/model4)
+
 
 ----
 ## References ##
