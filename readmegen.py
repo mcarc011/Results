@@ -27,7 +27,7 @@ for i in L:
         f.write('\n\n##Model '+m[-1]+'##\n')
         model = m
         f.write('\nUnique Toric Phases:\n')
-    if 'Tweb' in i and 'A' in i:
+    if 'Tweb' in i and 'A' in i and str(m[-1])==4:
         tdata = i.split('_')
         d1,d2 = i.index('('),i.index(')')
         data = i[d1:d2+1]

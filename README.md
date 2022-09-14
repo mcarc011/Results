@@ -2,9 +2,17 @@
 ----
 # Model 4 #
 ## Phases ##
-[Place Holder]
+<img src="./figs/model4/model4_phase_0.png" width="250" height="250">
+
 
 ## Web ##
+Triality on node 1|
+:-------------------:|
+<img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_0A0.png" width="250" height="250"><img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_0B0.png" width="250" height="250">|
+
+Triality on node 4|
+:-------------------:|
+<img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_1A4.png" width="100" height="100"><img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_1B4.png" width="250" height="250">|
 
 
 ----
