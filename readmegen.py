@@ -43,7 +43,3 @@ for i in L:
         
 f.close()
 
-#%%
-for i in range(12):
-    print( f'[Model '+str(i+1)+f'](https://github.com/mcarc011/Results/tree/master/figs/model'+str(i+1)+')')
-# %%
