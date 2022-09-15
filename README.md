@@ -1,20 +1,8 @@
-
-----
-# Model 4 #
-## Phases ##
-<img src="./figs/model4/model4_phase_0.png" width="250" height="250">
-
-
-## Web ##
-Inverse Triality on node 1|
-:-------------------:|
-<img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_0A0.png" width="250" height="250"><img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_0B0.png" width="250" height="250">|
-
-Triality on node 5|
-:-------------------:|
-<img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_1A4.png" width="250" height="250"><img src="./figs/model4/model4_Tweb_Phases_(0, 0)_Node_1B4.png" width="250" height="250">|
-
-[Model 4](https://github.com/mcarc011/Results/tree/master/figs/model4)
+|---|---|---|---|---|
+[Model 1](https://github.com/mcarc011/Results/tree/master/figs/model1)|[Model 2](https://github.com/mcarc011/Results/tree/master/figs/model2)|[Model 3](https://github.com/mcarc011/Results/tree/master/figs/model3)|[Model 4](https://github.com/mcarc011/Results/tree/master/figs/model4)|[Model 5](https://github.com/mcarc011/Results/tree/master/figs/model5)|
+[Model 6](https://github.com/mcarc011/Results/tree/master/figs/model6)|[Model 7](https://github.com/mcarc011/Results/tree/master/figs/model7)|
+[Model 8](https://github.com/mcarc011/Results/tree/master/figs/model8)|[Model 9](https://github.com/mcarc011/Results/tree/master/figs/model9)|[Model 10](https://github.com/mcarc011/Results/tree/master/figs/model10)|
+[Model 11](https://github.com/mcarc011/Results/tree/master/figs/model11)|[Model 12](https://github.com/mcarc011/Results/tree/master/figs/model12)|
 
 
 ----
