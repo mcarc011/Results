@@ -1,6 +1,5 @@
 # Model 7 #
-<img src="./model7_phase_0.png" width="250" height="250">
- <img src="./model7_phase_1.png" width="250" height="250"> <img src="./model7_phase_2.png" width="250" height="250"> <img src="./model7_phase_3.png" width="250" height="250"> <img src="./model7_phase_4.png" width="250" height="250"> <img src="./model7_phase_5.png" width="250" height="250"> <img src="./model7_phase_6.png" width="250" height="250"> <img src="./model7_phase_7.png" width="250" height="250"> <img src="./model7_phase_8.png" width="250" height="250"> <img src="./model7_phase_9.png" width="250" height="250"> 
+<img src="./model7_phase_0.png" width="250" height="250"> <img src="./model7_phase_1.png" width="250" height="250"> <img src="./model7_phase_2.png" width="250" height="250"> <img src="./model7_phase_3.png" width="250" height="250"> <img src="./model7_phase_4.png" width="250" height="250"> <img src="./model7_phase_5.png" width="250" height="250"> <img src="./model7_phase_6.png" width="250" height="250"> <img src="./model7_phase_7.png" width="250" height="250"> <img src="./model7_phase_8.png" width="250" height="250"> <img src="./model7_phase_9.png" width="250" height="250"> 
 ---
 ## Web Table ##
 ---
