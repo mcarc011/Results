@@ -1,7 +1,9 @@
-
-
-
-[Model 4](https://github.com/mcarc011/Results/tree/master/figs/model4)
+# Toric Phases Results #
+|   |   |   |   |   |
+|---|---|---|---|---|
+[Model 1](https://github.com/mcarc011/Results/tree/master/figs/model1)|[Model 2](https://github.com/mcarc011/Results/tree/master/figs/model2)|[Model 3](https://github.com/mcarc011/Results/tree/master/figs/model3)|[Model 4](https://github.com/mcarc011/Results/tree/master/figs/model4)|[Model 5](https://github.com/mcarc011/Results/tree/master/figs/model5)|
+[Model 6](https://github.com/mcarc011/Results/tree/master/figs/model6)|[Model 7](https://github.com/mcarc011/Results/tree/master/figs/model7)|[Model 8](https://github.com/mcarc011/Results/tree/master/figs/model8)|[Model 9](https://github.com/mcarc011/Results/tree/master/figs/model9)|[Model 10](https://github.com/mcarc011/Results/tree/master/figs/model10)|
+[Model 11](https://github.com/mcarc011/Results/tree/master/figs/model11)|[Model 12](https://github.com/mcarc011/Results/tree/master/figs/model12)|
 
 
 ----
