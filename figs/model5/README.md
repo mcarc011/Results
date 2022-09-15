@@ -1,5 +1,21 @@
 # Model 5 #
-<img src="./model5_phase_0.png" width="250" height="250"> <img src="./model5_phase_1.png" width="250" height="250"> <img src="./model5_phase_2.png" width="250" height="250"> <img src="./model5_phase_3.png" width="250" height="250"> 
+
+|<img src="./model5_phase_0.png" width="200" height="200"> |
+|---|
+|Phase 1|
+
+|<img src="./model5_phase_1.png" width="200" height="200"> |
+|---|
+|Phase 2|
+
+|<img src="./model5_phase_2.png" width="200" height="200"> |
+|---|
+|Phase 3|
+
+|<img src="./model5_phase_3.png" width="200" height="200"> |
+|---|
+|Phase 4|
+
 ---
 ## Web Table ##
 ---

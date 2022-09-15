@@ -1,5 +1,37 @@
 # Model 6 #
-<img src="./model6_phase_0.png" width="250" height="250"> <img src="./model6_phase_1.png" width="250" height="250"> <img src="./model6_phase_2.png" width="250" height="250"> <img src="./model6_phase_3.png" width="250" height="250"> <img src="./model6_phase_4.png" width="250" height="250"> <img src="./model6_phase_5.png" width="250" height="250"> <img src="./model6_phase_6.png" width="250" height="250"> <img src="./model6_phase_7.png" width="250" height="250"> 
+
+|<img src="./model6_phase_0.png" width="100" height="100"> |
+|---|
+|Phase 1|
+
+|<img src="./model6_phase_1.png" width="100" height="100"> |
+|---|
+|Phase 2|
+
+|<img src="./model6_phase_2.png" width="100" height="100"> |
+|---|
+|Phase 3|
+
+|<img src="./model6_phase_3.png" width="100" height="100"> |
+|---|
+|Phase 4|
+
+|<img src="./model6_phase_4.png" width="100" height="100"> |
+|---|
+|Phase 5|
+
+|<img src="./model6_phase_5.png" width="100" height="100"> |
+|---|
+|Phase 6|
+
+|<img src="./model6_phase_6.png" width="100" height="100"> |
+|---|
+|Phase 7|
+
+|<img src="./model6_phase_7.png" width="100" height="100"> |
+|---|
+|Phase 8|
+
 ---
 ## Web Table ##
 ---

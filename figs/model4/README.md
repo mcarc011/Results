@@ -1,5 +1,9 @@
 # Model 4 #
-<img src="./model4_phase_0.png" width="250" height="250"> 
+
+|<img src="./model4_phase_0.png" width="200" height="200"> |
+|---|
+|Phase 1|
+
 ---
 ## Web Table ##
 ---

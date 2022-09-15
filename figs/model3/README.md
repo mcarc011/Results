@@ -1,5 +1,13 @@
 # Model 3 #
-<img src="./model3_phase_0.png" width="250" height="250"> <img src="./model3_phase_1.png" width="250" height="250"> 
+
+|<img src="./model3_phase_0.png" width="200" height="200"> |
+|---|
+|Phase 1|
+
+|<img src="./model3_phase_1.png" width="200" height="200"> |
+|---|
+|Phase 2|
+
 ---
 ## Web Table ##
 ---
