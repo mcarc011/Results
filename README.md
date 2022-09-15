@@ -1,4 +1,4 @@
-# Toric Phases Results #
+# Reflexive Polytopes: Phases Results #
 |   |   |   |   |   |
 |---|---|---|---|---|
 [Model 1](https://github.com/mcarc011/Results/tree/master/figs/model1)|[Model 2](https://github.com/mcarc011/Results/tree/master/figs/model2)|[Model 3](https://github.com/mcarc011/Results/tree/master/figs/model3)|[Model 4](https://github.com/mcarc011/Results/tree/master/figs/model4)|[Model 5](https://github.com/mcarc011/Results/tree/master/figs/model5)|
