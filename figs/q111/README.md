@@ -1,36 +1,13 @@
 # Model q111 #
 
-|<img src="./q111_phase_0.png" width="100" height="100"> |
-|---|
-|Phase 1|
+|<img src="./q111_phase_0.png" width="100" height="100"> |<img src="./q111_phase_1.png" width="100" height="100"> |<img src="./q111_phase_2.png" width="100" height="100"> | <img src="./q111_phase_3.png" width="100" height="100"> |
+|---|---|---|---|
+|Phase 1|Phase 2|Phase 3|Phase 4|
 
-|<img src="./q111_phase_1.png" width="100" height="100"> |
-|---|
-|Phase 2|
 
-|<img src="./q111_phase_2.png" width="100" height="100"> |
-|---|
-|Phase 3|
-
-|<img src="./q111_phase_3.png" width="100" height="100"> |
-|---|
-|Phase 4|
-
-|<img src="./q111_phase_4.png" width="100" height="100"> |
-|---|
-|Phase 5|
-
-|<img src="./q111_phase_5.png" width="100" height="100"> |
-|---|
-|Phase 6|
-
-|<img src="./q111_phase_6.png" width="100" height="100"> |
-|---|
-|Phase 7|
-
-|<img src="./q111_phase_7.png" width="100" height="100"> |
-|---|
-|Phase 8|
+|<img src="./q111_phase_4.png" width="100" height="100"> |<img src="./q111_phase_5.png" width="100" height="100"> |<img src="./q111_phase_6.png" width="100" height="100"> |<img src="./q111_phase_7.png" width="100" height="100"> |
+|---|---|---|---|
+|Phase 5|Phase 6|Phase 7|Phase 8|
 
 |<img src="./q111_phase_8.png" width="100" height="100"> |
 |---|
