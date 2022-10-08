@@ -1,4 +1,4 @@
-# Model q111 #
+# Model Q^{1,1,1} #
 
 |<img src="./q111_phase_0.png" width="100" height="100"> |<img src="./q111_phase_1.png" width="100" height="100"> |<img src="./q111_phase_2.png" width="100" height="100"> | <img src="./q111_phase_3.png" width="100" height="100"> |
 |---|---|---|---|
