@@ -1,8 +1,8 @@
 # Model 1 #
 
-|<img src="./model1_phase_0.png" width="200" height="200"> |
-|---|
-|Phase 1|
+<center>
+<img src="./model1_phase_0.png" width="200" height="200"> |
+</center>
 
 ||[Phase 1](./model1_phase_0.png)|
 |---|---|
