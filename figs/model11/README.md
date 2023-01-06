@@ -1,17 +1,17 @@
 # Model 11 #
 
-|<img src="./model11_phase_0.png" width="100" height="100"> |<img src="./model11_phase_1.png" width="100" height="100"> | <img src="./model11_phase_2.png" width="100" height="100"> |
-|---|---|---|
-|Phase 1|Phase 2|Phase 2|
+|<img src="./model11_phase_0.png" width="100" height="100"> |<img src="./model11_phase_1.png" width="100" height="100"> | <img src="./model11_phase_2.png" width="100" height="100"> |<img src="./model11_phase_3.png" width="100" height="100"> | <img src="./model11_phase_4.png" width="100" height="100"> |
+|---|---|---|---|---|
+|Phase 1|Phase 2|Phase 3|Phase 4|Phase 5|
 
 
-|<img src="./model11_phase_3.png" width="100" height="100"> |
+|
 |---|
-|Phase 4|
+|
 
-|<img src="./model11_phase_4.png" width="100" height="100"> |
+|
 |---|
-|Phase 5|
+|
 
 |<img src="./model11_phase_5.png" width="100" height="100"> |
 |---|
