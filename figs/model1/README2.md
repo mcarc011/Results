@@ -2,7 +2,7 @@
 
 <center>
 <img src="./model1_phase_0.png" width="200" height="200"> |
-</center>
+<\center>
 
 ||[Phase 1](./model1_phase_0.png)|
 |---|---|
