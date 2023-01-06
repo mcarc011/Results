@@ -2,7 +2,7 @@
 
 <div align="center">
         
-|<img src="./model5_phase_0.png" width="100" height="100"> |<img src="./model5_phase_0.png" width="100" height="100"> |<img src="./model5_phase_0.png" width="100" height="100"> |
+>|<img src="./model5_phase_0.png" width="200" height="200"> |<img src="./model5_phase_0.png" width="200" height="200"> |<img src="./model5_phase_0.png" width="200" height="200"> |
 |---|---|---|
 |Phase 1|Phase 2|Phase 3|
         
