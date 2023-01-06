@@ -1,4 +1,6 @@
 
+<div align="center">
+
 ---
 # Model 5 #
 ---
@@ -15,3 +17,5 @@
 [Phase 1](./model5_phase_0.png)||4, -6||
 [Phase 2](./model5_phase_1.png)|||1, -4|
 [Phase 3](./model5_phase_2.png)|||-1|
+
+</div>
