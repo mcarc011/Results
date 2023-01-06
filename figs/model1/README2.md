@@ -6,7 +6,7 @@
 |---|
 |Phase 1|
   
-<\center>
+</center>
 
 ||[Phase 1](./model1_phase_0.png)|
 |---|---|
