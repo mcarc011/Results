@@ -1,7 +1,7 @@
 ## Overview ##
 >This repository corresponds to the construction of the triality web of all the models found in [[1]](https://arxiv.org/pdf/2203.15816.pdf). The steps used to perform triality can be found in [[2]](https://arxiv.org/pdf/1602.01834.pdf#page=11). The triality web was constructed automatically using the algorithm found in [[this script]](https://github.com/mcarc011/Polytopes-TrialityWeb/blob/master/polytopes2.py). The code itself is commented which tries to give details of each step. Models whose triality web were not found (because they seemed unbounded/the algorithm kept constructing new theories) have a crossed out and broken link. The results are formatted so that each model has a link which takes you to a subdirectory and displays the results of the web. Each model has a list of all the unique phases with a table at the very bottom that shows how each phase is related. The number on the lookup table references the node that needs to be dualized to go from the phase referenced in a row to the phase referenced in the column. A negative number denotes inverse triality. Thus the numbers shown correspond to how the phases are labeled for the phase referenced for the row. For example:
 
-||Phase 1|Phase 2|
+>||Phase 1|Phase 2|
 |---|---|---|
 Phase 1||-2, -3, 4, 5|
 Phase 2|2, -3||
