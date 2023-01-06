@@ -20,9 +20,9 @@
 |---|---|---|
 |Phase 13|Phase 14|Phase 15|
         
-|<img src="./model11_phase_15.png" width="100" height="100"> |<img src="./model11_phase_16.png" width="100" height="100"> ||
-|---|---|---|
-|Phase 16|Phase 17||
+|<img src="./model11_phase_15.png" width="100" height="100"> |<img src="./model11_phase_16.png" width="100" height="100"> |
+|---|---|
+|Phase 16|Phase 17|
 
 ---
 ## Web Table ##
