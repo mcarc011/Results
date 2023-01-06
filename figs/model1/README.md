@@ -1,12 +1,14 @@
-# Model 1 #
+<div align="center">
 
-|<img src="./model1_phase_0.png" width="200" height="200"> |
-|---|
-|Phase 1|
+---
+# Model 1 #
+---
 
 ---
 ## Web Table ##
 ---
-||Phase 1|
+||[Phase 1](./model1_phase_0.png)|
 |---|---|
-Phase 1||
+[Phase 1](./model1_phase_0.png)||
+
+</div>
