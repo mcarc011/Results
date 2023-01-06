@@ -1,3 +1,7 @@
+# Overview #
+This repository corresponds to the construction of the triality web of all the models found in [[1] https://arxiv.org/pdf/2203.15816.pdf]. The web were constructed automatically using the algorithm found in [[this script] https://github.com/mcarc011/Polytopes-TrialityWeb/blob/master/polytopes2.py]. Models whose triality web were not found
+
+
 # Reflexive Polytopes: Results #
 |   |   |   |   |   |
 |---|---|---|---|---|
