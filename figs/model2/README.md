@@ -1,17 +1,13 @@
 # Model 2 #
-<table>
-  <tr>
+
 |<img src="./model2_phase_0.png" width="200" height="200"> |
 |---|
 |Phase 1|
- </tr>
- <tr>
+
 |<img src="./model2_phase_1.png" width="200" height="200"> |
 |---|
 |Phase 2|
 
-  </tr>
-</table>
 ---
 ## Web Table ##
 ---
