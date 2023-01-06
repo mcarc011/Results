@@ -6,7 +6,7 @@
 |---|---|---|
 Phase 1||-2, -3, 4, 5|
 Phase 2|2, -3||
-<\center>
+</center>
 
 >This means that applying triality on node 5 of [[this phase]](https://github.com/mcarc011/Polytopes-TrialityWeb/blob/master/figs/model3/model3_phase_0.png) yields [[phase 2]](https://github.com/mcarc011/Polytopes-TrialityWeb/blob/master/figs/model3/model3_phase_1.png) when relabeled. [[This file]](https://github.com/mcarc011/Polytopes-TrialityWeb/blob/master/testmatrix.py) shows the matrices that were inputted for each of the corresponding models found in [[1]](https://arxiv.org/pdf/2203.15816.pdf). These can be use as input for [[this script]](https://github.com/mcarc011/Polytopes-TrialityWeb/blob/master/polytopes2.py) and was used to generate the results found in the subdirectories. Various other scripts not in the repository were used to generate these results including a graphing tool, a matrix input tool (generated the matrix input file), and some testing scripts which attempted to verify the results. These were left out to simplify the repository.
 
