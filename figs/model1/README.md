@@ -1,6 +1,6 @@
-# Model 1 Web Table #
+# Model 1 #
 
-|<img src="" width="200" height="200"> |
+|<img src="./model1_phase_0.png" width="200" height="200"> |
 |---|
 |Phase 1|
 
@@ -9,4 +9,4 @@
 ---
 ||Phase 1|
 |---|---|
-[[Phase 1]](./model1_phase_0.png)||
+Phase 1||
